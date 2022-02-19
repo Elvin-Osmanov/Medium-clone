@@ -18,7 +18,7 @@ export default function Home({ posts }: Props) {
       </Head>
       <Header />
 
-      <div className="flex items-center justify-between border-y border-black bg-yellow-400 p-10  lg:p-0 ">
+      <div className="flex items-center justify-between border-y border-black bg-yellow-400 p-10  lg:p-10 ">
         <div className="space-y-5 px-10">
           <h1 className="max-w-xl font-serif text-6xl">
             <span className="underline decoration-black decoration-4">
